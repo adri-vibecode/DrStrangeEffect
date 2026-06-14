@@ -201,8 +201,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Akshat Singh**
+**Adri Goswami**
 - GitHub: [@adri-vibecode](https://github.com/adri-vibecode)
+- Working link: [DrStrangeEffects](https://dr-strange-effect.vercel.app/)
 
 ---
 
