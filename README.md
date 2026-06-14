@@ -2,7 +2,7 @@
 
 > Real-time hand tracking AR experience powered by MediaPipe, bringing the Mystic Arts to your browser.
 
-**Created by [Akshat Singh](https://github.com/Axshatt)**
+**Created by [Adri Goswami](https://github.com/adri-vibecode]**
 
 ---
 
@@ -202,7 +202,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Akshat Singh**
-- GitHub: [@Axshatt](https://github.com/Axshatt)
+- GitHub: [@adri-vibecode](https://github.com/adri-vibecode)
 
 ---
 
